@@ -1,12 +1,3 @@
-/*==================== LOADER ====================*/
-var loader = document.querySelector(".loader")
-
-window.addEventListener("load", vanish);
-
-function vanish() {
-  loader.classList.add("disppear");
-}
-
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
