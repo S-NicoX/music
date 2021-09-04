@@ -693,14 +693,6 @@ img{
   box-shadow: 4px 4px 16px var(--shadow-darker), -2px -2px 16px var(--shadow-light);
   border-radius: 2.5rem;
 }
-.download-btn.btn-6 {
-  width: 360px;
-  justify-content: space-between;
-  padding: .75rem 1.25rem .75rem .75rem;
-  background-color: var(--top-first-color-lighten);
-  box-shadow: 4px 4px 16px var(--shadow-darker), -2px -2px 16px var(--shadow-light);
-  border-radius: 2.5rem;
-}
 .download-btn div {
   width:100%;
   height:100%;
