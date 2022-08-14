@@ -440,7 +440,7 @@ img{
   }
   
   .drop__card{
-    width: 360px;
+    width: 380px;
     justify-content: space-between;
     padding: .75rem 1.25rem .75rem .75rem;
     background-color: var(--top-first-color-lighten);
@@ -903,7 +903,7 @@ img{
     justify-self: center;
   }
   .drop__card{
-    width: 320px;
+    width: 340px;
     margin-right: 1rem;
   }
 
